@@ -4,3 +4,4 @@
 - STD ID OK
 - GENDER OK
 - MOOD OK
+- DEPT OK
